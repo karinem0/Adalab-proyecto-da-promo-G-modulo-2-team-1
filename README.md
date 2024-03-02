@@ -32,8 +32,7 @@ Si quieres echar un vistazo a nuestra base de datos y comprobar toda la informac
         - BBDD: SQL-CONSULTAS
         - ROTTEN Y IMDB
 
-    - Asegúrate de tener instaladas todas las dependencias necesarias. 
-        - Si quieres
+    - Asegúrate de tener instaladas todas las dependencias necesarias. Dentro de nuestros archivos encontrarás todos los detalles al respecto. 
 
     - Sigue las instrucciones de uso para obtener información detallada sobre cómo ejecutar y utilizar el proyecto.
 
@@ -43,13 +42,15 @@ Si quieres echar un vistazo a nuestra base de datos y comprobar toda la informac
 - Según tus preferencias en nuestro proyecto te damos la opción de:
 
     - Extraer tú mismo la información en caso de que quieras un género cinematográfico diferente u otro rango de años. 
+    
     ** En el archivo --------- encontrarás la información necesaria para poder hacerlo tú mismo, sin necesidad de ayuda. 
     ** Recuerda que para poder ejecutar este código debes tener instaladas todas las dependencias necesarias. ***
 
 
 - Investigar toda la información extraída de las películas, valoraciones de IMDB y Rotten Tomatoes, consultar nuestra Base de Datos y hacerle peticiones para que te aporte la información que necesitas. 
 
-    ** Podras visualizar todos los archivos con un editor de texto simple pero para poder visualizar correctamente nuestra BBDD deberás tener instalado MySQL ?? en tu pc
+    ** Podras visualizar todos los archivos con un editor de texto simple pero para poder realizar peticiones a nuestra BBDD deberás tener instalado MySQL Workbench. 
+    
     ** En el archivo ------- encontrarás la información de ---
     ** 
 
