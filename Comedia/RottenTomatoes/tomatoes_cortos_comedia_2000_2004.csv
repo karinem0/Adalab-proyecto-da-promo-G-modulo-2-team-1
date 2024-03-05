@@ -1,11 +1,11 @@
-,0,1,2
+,titulo,anio,puntuacion_rotten
 0,A Moment of Silence,2000,
 1,The Package,2000,42
 2,The Extra,2000,43
 3,In Between,2000,
 4,Dinner,2000,
 5,They Walk Among Us,2000,
-6,"Love, Ltd.",2000,
+"6,""Love, Ltd."",2000,"
 7,Blutiger Ernst,2000,
 8,Ruben,2000,
 9,Divine Intervention,2000,81
@@ -23,7 +23,7 @@
 21,My Chorus,2000,
 22,Above the Dust Level,2000,
 23,Spoof! An Insider's Guide to Short Film Success,2000,
-24,"Marisa, Where Art Thou?",2000,
+"24,""Marisa, Where Art Thou?"",2000,"
 25,The Window,2000,100
 26,In God We Trust,2000,48
 27,Little Sister,2000,94
@@ -46,7 +46,7 @@
 44,Hoverboy,2000,
 45,Where's Charlie?,2000,
 46,Yksityisetsivän tytär,2000,
-47,"Men Named Milo, Women Named Greta",2000,
+"47,""Men Named Milo, Women Named Greta"",2000,"
 48,It's a Shame About Ray,2000,-
 49,Film Club,2000,
 50,The Artist's Circle,2000,
@@ -64,7 +64,7 @@
 62,Karaoke King,2000,
 63,Les éléphants de la planète Mars,2000,
 64,Dinner for Two,2000,
-65,"Lights, Camera, War!",2000,
+"65,""Lights, Camera, War!"",2000,"
 66,Billy Jones,2000,
 67,La promesse,2000,
 68,Ghost of Stephen Foster,2000,
@@ -87,7 +87,7 @@
 85,405,2000,
 86,StarGeeks,2000,
 87,New Neighbours,2000,
-88,"Tex, the Passive-Aggressive Gunslinger",2000,
+"88,""Tex, the Passive-Aggressive Gunslinger"",2000,"
 89,King's Ransom,2000,2
 90,Faux contact,2000,
 91,Dick and Maria,2000,
@@ -99,7 +99,7 @@
 97,David Nelson Live,2000,
 98,Strawberry Flavour,2000,
 99,Walking on the Wild Side,2000,
-100,"Hello, Dolly!",2000,45
+"100,""Hello, Dolly!"",2000,45"
 101,Virgin Larry,2000,
 102,The Unbreakable Likeness of Lincoln,2000,
 103,J'peux pas dormir...,2000,
@@ -215,7 +215,7 @@
 213,Pee Shy,2000,
 214,Clase z tropical,2000,
 215,Hojin,2000,
-216,"Nu, pogodi!",2000,
+"216,""Nu, pogodi!"",2000,"
 217,Je mange le chat,2000,
 218,Little Samurai,2000,
 219,Sakkaa yarouze!,2000,
@@ -265,7 +265,7 @@
 263,Coco,2000,97
 264,Greenlight Yourself,2000,
 265,Chris O'Connell: Yeah,2000,
-266,"L'ours, la femme et le chasseur",2000,
+"266,""L'ours, la femme et le chasseur"",2000,"
 267,Génération cutter,2000,
 268,Sergi,2000,
 269,The Black Sheep,2000,
@@ -354,7 +354,7 @@
 352,The Magic of Vincent,2000,
 353,Jump,2000,
 354,Los asesinos,2000,-
-355,"Grandma Shoots, Grandma Scores",2000,
+"355,""Grandma Shoots, Grandma Scores"",2000,"
 356,Bad Assassin,2000,
 357,One Particular Person,2000,
 358,Ein bißchen Mord muß sein,2000,
@@ -433,7 +433,7 @@
 431,Nosotros Elegimos por Usted,2000,
 432,Gane Dinero Facil,2000,
 433,To Bit or Not to Bit,2000,
-434,"Az ember, akit kihagytak",2000,
+"434,""Az ember, akit kihagytak"",2000,"
 435,Igor,2000,40
 436,Snacking,2000,
 437,The Waitress,2000,
@@ -467,7 +467,7 @@
 465,Royal Auto Club: Bad Habits,2000,
 466,Kiss FM Stundenlohn,2000,
 467,Small Metal Glasses,2000,
-468,"Sorry, Wrong Address",2000,
+"468,""Sorry, Wrong Address"",2000,"
 469,Il parco,2000,
 470,Angela Anaconda,2000,
 471,Whaleboat,2000,
@@ -495,7 +495,7 @@
 493,Kreiken Kroken,2000,
 494,Memorias de mi año sabático,2000,
 495,La Llamada,2000,
-496,"Good Cop, Wood Cop",2000,
+"496,""Good Cop, Wood Cop"",2000,"
 497,Trombone Trouble,2000,
 498,Dónde está Dios?,2000,
 499,My Life in 8 Minutes,2000,
@@ -523,7 +523,7 @@
 521,The Devil You Know,2001,36
 522,A Bad Spell,2001,
 523,BigLove,2001,
-524,"What They Wanted, What They Got",2001,
+"524,""What They Wanted, What They Got"",2001,"
 525,Rock Star 101,2001,
 526,The Big Leaf Tobacco Company,2001,
 527,Welcome to Hell,2001,
@@ -535,14 +535,14 @@
 533,Blackberries,2001,
 534,The A-List,2001,
 535,Steven Spielberg's Movie,2001,
-536,"Gina, an Actress, Age 29",2001,
+"536,""Gina, an Actress, Age 29"",2001,"
 537,Hitclown,2001,
 538,White Face,2001,
 539,The Ballad of Little Roger Mead,2001,
 540,The Disappearing Girl Trick,2001,
 541,Tri Fuové,2001,
 542,The Diamond Nose,2001,
-543,"Love, Sex & Murder",2001,
+"543,""Love, Sex & Murder"",2001,"
 544,Snapped,2001,22
 545,Directing Eddie,2001,
 546,Go with the Fro,2001,
@@ -610,7 +610,7 @@
 608,Popcorn Shrimp,2001,
 609,Marching Gaily,2001,
 610,Mañana,2001,
-611,"Il est difficile de tuer quelqu'un, même un lundi",2001,
+"611,""Il est difficile de tuer quelqu'un, même un lundi"",2001,"
 612,Treitum,2001,
 613,Adoro tu vómito,2001,
 614,Good Stuff,2001,-
@@ -660,12 +660,12 @@
 658,Tea with Grandma,2001,
 659,Frankenbabe,2001,
 660,Andres,2001,
-661,"Hasta aquí hemos llegao (desde el Vaticano, con amor)",2001,
+"661,""Hasta aquí hemos llegao (desde el Vaticano, con amor)"",2001,"
 662,10-Speed,2001,
 663,Block Party,2001,80
 664,Morto the Magician,2001,
 665,Na ceste,2001,
-666,"Soberano, el rey canalla",2001,
+"666,""Soberano, el rey canalla"",2001,"
 667,Mis,2001,
 668,Pearl Harbor II: Pearlmageddon,2001,
 669,Walk,2001,
@@ -706,7 +706,7 @@
 704,Vincent,2001,55
 705,Boy@nt!,2001,
 706,Slipper,2001,
-707,"Putain, la vieille faut pas l'énerver!",2001,
+"707,""Putain, la vieille faut pas l'énerver!"",2001,"
 708,Give Up Yer Aul Sins,2001,
 709,Hubcap,2001,
 710,Little Miss Malice,2001,
@@ -773,7 +773,7 @@
 771,El hombre ubícuo,2001,
 772,El hombre que volaba un poquito,2001,
 773,O Gogos,2001,
-774,"¡Manuela, el cinto!",2001,
+"774,""¡Manuela, el cinto!"",2001,"
 775,Pneuma (aire),2001,
 776,El tercer rey,2001,
 777,Soldaditos de latón,2001,
@@ -799,7 +799,7 @@
 797,In Search of Mike,2001,
 798,Flatsch,2001,
 799,Don't Walk,2001,
-800,"Un vol, la nuit",2001,
+"800,""Un vol, la nuit"",2001,"
 801,How to Be a Cyber-Lovah,2001,
 802,La mémé et le bébé,2001,
 803,Hypertension,2001,
@@ -818,7 +818,7 @@
 816,Eyes Wide Open,2001,86
 817,Intolerance II: The Invasion,2001,
 818,Cat Lady,2001,
-819,"Mac Kelly, Life in the Director's Chair",2001,
+"819,""Mac Kelly, Life in the Director's Chair"",2001,"
 820,Silent Story,2001,
 821,Not a Trace of Tracey,2001,
 822,ShowChickens,2001,
@@ -950,7 +950,7 @@
 948,The Christopher Walken Ecstatic Dance Academy,2001,
 949,The Accidental Messiah,2001,
 950,Squeegee School,2001,
-951,"Moi, à ta place...",2001,
+"951,""Moi, à ta place..."",2001,"
 952,Legacies,2001,
 953,Nice,2001,
 954,Lord Kurt,2001,
@@ -968,7 +968,7 @@
 966,Gone Bad,2001,
 967,The Route,2001,-
 968,Housekeeping,2001,93
-969,"It's Not You, It's Me",2001,71
+"969,""It's Not You, It's Me"",2001,71"
 970,Ivor the Insomniac,2001,
 971,The Hapless Antiquarian,2001,
 972,Tre på en motorcykel,2001,
@@ -987,7 +987,7 @@
 985,AppleJax and YoYo,2001,
 986,Cycles,2001,
 987,Ice Cool Reception,2001,
-988,"Molly, Star-Racer",2001,
+"988,""Molly, Star-Racer"",2001,"
 989,Roundest Wheel,2001,
 990,The Secret Lives of Shopping Carts,2001,
 991,The Right Man for the Job,2001,
@@ -995,7 +995,7 @@
 993,The Riblok Foundation,2001,
 994,Due e mezzo compreso il viaggio,2001,
 995,Rock and a Hard Place,2001,89
-996,"Casi humano, hermano",2001,
+"996,""Casi humano, hermano"",2001,"
 997,Minipimer man,2001,
 998,Jackanory,2001,
 999,Rodaje perfecto,2001,
@@ -1023,10 +1023,10 @@
 1021,Heartstrings,2002,62
 1022,Grasp,2002,
 1023,Hot Dog,2002,-
-1024,"I Lost 20lbs in Two Months, Ask Me How",2002,
+"1024,""I Lost 20lbs in Two Months, Ask Me How"",2002,"
 1025,Janey Van Winkle,2002,
 1026,Op het randje...,2002,
-1027,"Terry Tate, Office Linebacker",2002,
+"1027,""Terry Tate, Office Linebacker"",2002,"
 1028,The Vinyl Battle,2002,
 1029,Ernest & Bertram,2002,
 1030,The Quest for Length,2002,
@@ -1067,7 +1067,7 @@
 1065,Fits & Starts,2002,
 1066,Hot Rush,2002,
 1067,Drama Queen,2002,
-1068,"One, Two, Three...",2002,
+"1068,""One, Two, Three..."",2002,"
 1069,Heures creuses,2002,
 1070,The Big G,2002,
 1071,Bums in the Mist,2002,
@@ -1317,7 +1317,7 @@
 1315,Twin Set,2002,
 1316,La paille et la poutre,2002,
 1317,The Tail,2002,
-1318,"Legkisebb film a legnagyobb magyarról, avagy ha nincs kéz nincs csoki",2002,
+"1318,""Legkisebb film a legnagyobb magyarról, avagy ha nincs kéz nincs csoki"",2002,"
 1319,The Shine,2002,
 1320,Weil ich dich mag...,2002,
 1321,Az ötödik szoba,2002,
@@ -1363,7 +1363,7 @@
 1361,Nobody,2002,84
 1362,Good Luck Mr. Grosky,2002,
 1363,Last Day,2002,
-1364,"Coffee, Desserts, Lightfare",2002,
+"1364,""Coffee, Desserts, Lightfare"",2002,"
 1365,Big Shoes to Fill,2002,
 1366,Looking Out,2002,
 1367,Dual,2002,71
@@ -1393,12 +1393,12 @@
 1391,Ley 23.344,2002,
 1392,D.I.Y. Hard,2002,
 1393,Ritchie's Itch,2002,
-1394,"Hell og lykke, Herr Gorsky!",2002,
+"1394,""Hell og lykke, Herr Gorsky!"",2002,"
 1395,Mosquito Night,2002,
 1396,Willis,2002,
 1397,Hotel Rienne,2002,
 1398,Pervula,2002,
-1399,"Karma, Incorporated",2002,
+"1399,""Karma, Incorporated"",2002,"
 1400,Mr Arsehole,2002,
 1401,Ace in the Hole,2002,90
 1402,The Contest,2002,
@@ -1581,9 +1581,9 @@
 1579,The Babysitter,2003,71
 1580,Hollywood's Talk of Fame,2003,
 1581,African-American Idol: The Search for the Next Black Leader,2003,
-1582,"Short, White, Pleated",2003,
+"1582,""Short, White, Pleated"",2003,"
 1583,La Puppe,2003,
-1584,"A.P.U.: Art, Pot and Underwear",2003,
+"1584,""A.P.U.: Art, Pot and Underwear"",2003,"
 1585,So Happy Together,2003,
 1586,Indoor Fireworks,2003,
 1587,Confection,2003,
@@ -1622,7 +1622,7 @@
 1620,Half a Man,2003,
 1621,Stereotypes,2003,
 1622,A Token for Your Thoughts,2003,
-1623,"Popiahs, Murtabak and a Patriotic Donkey",2003,
+"1623,""Popiahs, Murtabak and a Patriotic Donkey"",2003,"
 1624,This Car Up,2003,
 1625,Mellem os,2003,
 1626,Spot: A Sign of the Times,2003,
@@ -1648,7 +1648,7 @@
 1646,Fenêtre sur couple,2003,
 1647,Canada: Sperm Bank of Satan,2003,
 1648,Joe's First Day in Boston,2003,
-1649,"Sorria, Você Está Sendo Filmado",2003,
+"1649,""Sorria, Você Está Sendo Filmado"",2003,"
 1650,Walkentalk,2003,
 1651,12 Hot Women,2003,
 1652,Yuri & Me,2003,
@@ -1701,11 +1701,11 @@
 1699,Claverdeek,2003,
 1700,The Highest Bidder,2003,
 1701,The House of Names,2003,
-1702,"Hello, Friend",2003,
+"1702,""Hello, Friend"",2003,"
 1703,In Hot Pursuit,2003,11
 1704,Cliché,2003,
 1705,Moo(n),2003,
-1706,"He's Harry, But Aren't We All",2003,
+"1706,""He's Harry, But Aren't We All"",2003,"
 1707,This Is Not a Chair,2003,
 1708,Wildlands,2003,
 1709,The First Rule of Seduction,2003,
@@ -1717,7 +1717,7 @@
 1715,Four Simple Rules,2003,
 1716,80's Ending,2003,
 1717,My Small Italian Shotgun Wedding,2003,
-1718,"Weed: Or, A Cancer in the Community",2003,
+"1718,""Weed: Or, A Cancer in the Community"",2003,"
 1719,U,2003,57
 1720,Carter's Wish,2003,
 1721,Venus Conspiracy,2003,
@@ -1785,7 +1785,7 @@
 1783,The Custodial Code,2003,
 1784,Overvågning,2003,
 1785,Hung Up,2003,
-1786,"Glengarry, Bob Ross",2003,
+"1786,""Glengarry, Bob Ross"",2003,"
 1787,Handbook to Casual Stalking,2003,
 1788,Tanken som räknas,2003,
 1789,Cold Turkey,2003,60
@@ -1814,7 +1814,7 @@
 1812,Allergic to Nuts,2003,
 1813,Ore 2: Calma piatta,2003,
 1814,How I Learned to Stop Worrying and Love the Superlaser,2003,
-1815,"Comic Store Diaries, Vol. 4",2003,
+"1815,""Comic Store Diaries, Vol. 4"",2003,"
 1816,The Gates-trix,2003,
 1817,A Piece of Cake,2003,
 1818,Pôv' fille,2003,
@@ -1833,7 +1833,7 @@
 1831,Dangle,2003,
 1832,Cupids,2003,
 1833,Smash the Kitty,2003,
-1834,"Die, Faggot, Die!",2003,
+"1834,""Die, Faggot, Die!"",2003,"
 1835,Pantomimus,2003,
 1836,Las superamigas contra el profesor Vinilo,2003,
 1837,Fudgie & Jane,2003,
@@ -1870,11 +1870,11 @@
 1868,Buried,2003,87
 1869,Shining Happy,2003,
 1870,Cerebral Print: File #0604,2003,
-1871,"Knock, Knock... Who's There?",2003,
+"1871,""Knock, Knock... Who's There?"",2003,"
 1872,Mother's Day,2003,43
 1873,This Old House,2003,
 1874,Of All the Luck,2003,
-1875,"Goodbye, Cruel World",2003,67
+"1875,""Goodbye, Cruel World"",2003,67"
 1876,Butch,2003,
 1877,Friday Night In,2003,
 1878,A Perilous Dance: The Damon DeRivers Story,2003,
@@ -1898,7 +1898,7 @@
 1896,The Accusation,2003,88
 1897,Human Day,2003,
 1898,50 Questions,2003,
-1899,"Dear, Sweet Emma",2003,
+"1899,""Dear, Sweet Emma"",2003,"
 1900,Obey the Signs... and Live!,2003,
 1901,Audition Tape,2003,
 1902,Long Road Home,2003,-
@@ -1980,7 +1980,7 @@
 1978,Band Camp,2003,
 1979,The Good Life,2003,33
 1980,Room to Let,2003,
-1981,"Clark, the Canadian Hockey Goalie",2003,
+"1981,""Clark, the Canadian Hockey Goalie"",2003,"
 1982,Why the Anderson Children Didn't Come to Dinner,2003,
 1983,La increíble historia de Asterión y Clotilda,2003,
 1984,Last Night of Mardi Gras,2003,
@@ -1990,7 +1990,7 @@
 1988,Limbo,2003,97
 1989,The Mezzos,2003,
 1990,The Writer's Block,2003,
-1991,"Right Here, Right Now",2003,
+"1991,""Right Here, Right Now"",2003,"
 1992,Casablanca,2003,99
 1993,Tan Lines: The Making of Suntanned Bikini,2003,
 1994,Calvario,2003,
@@ -2049,7 +2049,7 @@
 2047,Daniel's Spark,2004,
 2048,Broken Condom,2004,
 2049,A Gothic Romance,2004,
-2050,"Terry Tate, Office Linebacker: Sensitivity Training",2004,
+"2050,""Terry Tate, Office Linebacker: Sensitivity Training"",2004,"
 2051,I Am Stamos,2004,
 2052,Language of Love,2004,
 2053,Kung-Fu Kitties,2004,
@@ -2184,7 +2184,7 @@
 2182,The Art of Flirting,2004,
 2183,Grinding,2004,
 2184,Client 3815,2004,
-2185,"Le bon, la brute et les zombies",2004,
+"2185,""Le bon, la brute et les zombies"",2004,"
 2186,Child Psychology,2004,
 2187,Hindsight Is 20/20...,2004,
 2188,Life's a Blast,2004,
@@ -2215,7 +2215,7 @@
 2213,Lekeplassen,2004,
 2214,Compton Cowboy,2004,
 2215,Lactose Intolerant,2004,
-2216,"Words, Words, Words",2004,
+"2216,""Words, Words, Words"",2004,"
 2217,Fanboys,2004,32
 2218,Two Ugly Sisters,2004,
 2219,The Unsinkable Freddie Krakauer,2004,
@@ -2249,7 +2249,7 @@
 2247,Kvinnokraft,2004,
 2248,Martha,2004,86
 2249,Memoirs of an Evil Stepmother,2004,
-2250,"The Last Alchemist, or How Wynn Albright Got His Comeuppance",2004,
+"2250,""The Last Alchemist, or How Wynn Albright Got His Comeuppance"",2004,"
 2251,Fang des Lebens,2004,
 2252,This Land,2004,80
 2253,The Homolulu Show,2004,
@@ -2362,7 +2362,7 @@
 2360,Parker's Back,2004,
 2361,What a Cock,2004,
 2362,Six Shooter,2004,
-2363,"Mothers, Fathers, and Other Strangers",2004,
+"2363,""Mothers, Fathers, and Other Strangers"",2004,"
 2364,Pata de gallo,2004,
 2365,The Sadness of Johnson Joe Jangles,2004,
 2366,The Mojo Cafe,2004,
@@ -2398,12 +2398,12 @@
 2396,Le Man-Poodle Et Mop Hour De Comedy,2004,
 2397,First Kiss,2004,
 2398,Nick Wilson's Gamers,2004,
-2399,"Selfless, Cold and Composed",2004,
+"2399,""Selfless, Cold and Composed"",2004,"
 2400,Scrambled Eggs,2004,
 2401,When Katie Met Meg,2004,
 2402,Otro ladrillo en la pared,2004,
 2403,Space,2004,
-2404,"Toi, vieux",2004,
+"2404,""Toi, vieux"",2004,"
 2405,The Scratch,2004,
 2406,The Speeding Ticket,2004,
 2407,Two of a Kind,2004,17
@@ -2445,7 +2445,7 @@
 2443,El anillo,2004,
 2444,What Are the Odds,2004,
 2445,Jack the Snipper,2004,
-2446,"Gotham, IL",2004,
+"2446,""Gotham, IL"",2004,"
 2447,Wear Something Nice,2004,
 2448,Have I Passed?,2004,
 2449,The Server,2004,
@@ -2467,9 +2467,9 @@
 2465,La mirada,2004,
 2466,Cowboys na António Maria Cardoso,2004,
 2467,The Venus Project,2004,
-2468,"Cheer Up, Sleepy Jean",2004,
+"2468,""Cheer Up, Sleepy Jean"",2004,"
 2469,Commentary: On,2004,
-2470,"Say It Again, Sam",2004,
+"2470,""Say It Again, Sam"",2004,"
 2471,Signe d'appartenance,2004,
 2472,Portrait,2004,
 2473,The Elephant's Egg,2004,
@@ -2495,7 +2495,7 @@
 2493,You Get Five Minutes,2004,
 2494,Go Active!,2004,
 2495,På toppen,2004,
-2496,"Algún día, algún día",2004,
+"2496,""Algún día, algún día"",2004,"
 2497,Ezequiel el volador,2004,
 2498,Tae-chi-do,2004,
 2499,Just Plump,2004,

@@ -1,4 +1,4 @@
-,0,1,2
+,titulo,anio,puntuacion_rotten
 0,G.,2000,
 1,Last Mistake,2000,
 2,Infection,2000,60
@@ -57,7 +57,7 @@
 55,Fygi,2000,
 56,The Smell of Napalm,2000,
 57,Chinpira,2000,
-58,"The Canary Who Could Sing, But He Couldn't Fly",2000,
+"58,""The Canary Who Could Sing, But He Couldn't Fly"",2000,"
 59,Fuego Con Fuego,2000,
 60,33B7: The Way of the Dragon,2000,
 61,Wildcop,2000,
@@ -128,7 +128,7 @@
 126,Pure Vengeance,2001,
 127,Keong,2001,
 128,3AM Eternal,2001,
-129,"Molly, Star-Racer",2001,
+"129,""Molly, Star-Racer"",2001,"
 130,Roslyn,2001,
 131,Heroine Helen,2001,
 132,Dejimon adobenchâ 02: Diaboromon no gyakushû,2001,
@@ -216,7 +216,7 @@
 214,Hu - Covek kao armija,2002,
 215,Bud & Moovy,2002,
 216,Sundown,2002,78
-217,"Chicks with Sticks, Part 2",2002,
+"217,""Chicks with Sticks, Part 2"",2002,"
 218,Alex Venino: Diary of a Hitman,2002,
 219,Fata Morgana,2002,72
 220,Iblees,2002,
@@ -299,7 +299,7 @@
 297,Final Flight of the Osiris,2003,
 298,Flying Baby,2003,
 299,Chimera,2003,-
-300,"A.P.U.: Art, Pot and Underwear",2003,
+"300,""A.P.U.: Art, Pot and Underwear"",2003,"
 301,The Uninvited,2003,95
 302,Natural Selection,2003,44
 303,Jfets-D,2003,
@@ -405,7 +405,7 @@
 403,An Unexamined Death Is Not Worth Dying,2003,
 404,Made in China,2003,59
 405,Knights of Honor,2003,
-406,"Luz, Câmeras e Ação",2003,
+"406,""Luz, Câmeras e Ação"",2003,"
 407,Angeldust,2003,
 408,The Pawn,2003,
 409,S'a me briga s'o ga nema taxi,2003,
@@ -474,13 +474,13 @@
 472,On the Run,2004,40
 473,Revenge of Cerebral Print,2004,
 474,Gung Ho,2004,33
-475,"Chicks with Sticks, Part 3",2004,
+"475,""Chicks with Sticks, Part 3"",2004,"
 476,Hawaiian Treasure,2004,
 477,Rex Steele: Nazi Smasher,2004,
 478,Cut and Run,2004,38
 479,Captain Valedor versus the Spider Queen,2004,
 480,Darkness Minus Twelve,2004,
-481,"Kaze, Ghost Warrior",2004,
+"481,""Kaze, Ghost Warrior"",2004,"
 482,The Hitter Awards,2004,
 483,Duel,2004,89
 484,Gemini,2004,70
@@ -501,7 +501,7 @@
 499,The Crusaders,2004,
 500,Gamers Circle,2004,
 501,Grayson,2004,
-502,"Gotham, IL",2004,
+"502,""Gotham, IL"",2004,"
 503,Immortal Brother,2004,
 504,Transmission,2004,
 505,Three Blind Mice,2004,80
@@ -661,7 +661,7 @@
 659,MANTA,2004,
 660,Waste of Time 2,2004,
 661,Broodje gras en linke soep,2004,
-662,"Ten Chi Jin Ryaku No Maki Principles of Heaven, Earth and Man",2004,
+"662,""Ten Chi Jin Ryaku No Maki Principles of Heaven, Earth and Man"",2004,"
 663,Doom,2004,18
 664,By Means of Natural Selection,2004,
 665,The Dangers of Smoking,2004,

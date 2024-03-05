@@ -1,4 +1,4 @@
-,0,1,2
+,titulo,anio,puntuacion_rotten
 0,Chateaubriand - Cabeça de Paraíba,2000,
 1,Nights,2000,
 2,Caught,2000,
@@ -27,7 +27,7 @@
 25,Flying Over Mother,2000,
 26,A Drogaria,2000,
 27,Ghosthunter,2000,100
-28,"Friday Night, NYC",2000,
+"28,""Friday Night, NYC"",2000,"
 29,Um Dia na Vida,2000,
 30,Angels in a Cage,2000,
 31,Olhos Mortos,2000,
@@ -44,10 +44,10 @@
 42,The Book of Ezekiel,2000,
 43,Yksityisetsivän tytär,2000,
 44,Roadblock,2000,42
-45,"Men Named Milo, Women Named Greta",2000,
+"45,""Men Named Milo, Women Named Greta"",2000,"
 46,Soins et beauté,2000,
 47,Afsporet,2000,
-48,"Hop, Skip & Jump",2000,
+"48,""Hop, Skip & Jump"",2000,"
 49,Last Mistake,2000,
 50,Quantum Project,2000,
 51,Friday,2000,76
@@ -147,7 +147,7 @@
 145,La télévision,2000,
 146,Grand oral,2000,
 147,Clean Rite Cowboy,2000,
-148,"Foxy Lady, Wild Cherry",2000,
+"148,""Foxy Lady, Wild Cherry"",2000,"
 149,Adam and Steve,2000,
 150,Le p'tit Varius,2000,
 151,Through Thick and Thin,2000,
@@ -192,7 +192,7 @@
 190,La escapada,2000,
 191,Los maravillosos olores de la vida,2000,
 192,Lez Be Friends,2000,
-193,"Nomad, Roe",2000,
+"193,""Nomad, Roe"",2000,"
 194,La mudanza,2000,
 195,Mi patio,2000,
 196,En malas compañías,2000,
@@ -248,7 +248,7 @@
 246,Something Close to Heaven,2000,
 247,Ela na sou po...,2000,
 248,Fatboy and Twintub,2000,
-249,"Monsieur, monsieur",2000,
+"249,""Monsieur, monsieur"",2000,"
 250,The Beauty of Darkness,2000,
 251,Moby Dick,2000,81
 252,Le grand final,2000,
@@ -257,7 +257,7 @@
 255,Dos niños solos,2000,
 256,Frasquito,2000,
 257,El chico en la puerta,2000,
-258,"Carol, no te dispares",2000,
+"258,""Carol, no te dispares"",2000,"
 259,Amarantado,2000,
 260,Hauspo soinua,2000,
 261,Anónimo,2000,
@@ -273,7 +273,7 @@
 271,Para pegarse un tiro,2000,
 272,Mar de cemento,2000,
 273,Residente,2000,93
-274,"Todo iba mal, menos tú",2000,
+"274,""Todo iba mal, menos tú"",2000,"
 275,Vaivén,2000,
 276,Mundo enfermo,2000,
 277,Via Crucis,2000,
@@ -294,7 +294,7 @@
 292,La vie des autres,2000,
 293,That Time,2000,
 294,Try,2000,
-295,"Sweden, Sweden",2000,
+"295,""Sweden, Sweden"",2000,"
 296,The Return of Reason,2000,
 297,Armas tuss 50 aastat hiljem,2000,
 298,On s'embrasse?,2000,
@@ -342,7 +342,7 @@
 340,Running Away,2000,20
 341,Turbans,2000,
 342,Soleil glacé,2000,
-343,"Un veau pleurait, la nuit",2000,
+"343,""Un veau pleurait, la nuit"",2000,"
 344,12 Rounds,2000,
 345,Ernesto,2000,
 346,Marietta,2000,
@@ -424,7 +424,7 @@
 422,Antes meridiano,2000,
 423,Best Man,2000,
 424,Quiero morir,2000,
-425,"Samantha Stewart, Aged 14",2000,
+"425,""Samantha Stewart, Aged 14"",2000,"
 426,Portrait,2000,
 427,Real,2000,
 428,Winter Solstice,2000,60
@@ -521,7 +521,7 @@
 519,Red Man,2001,
 520,BigLove,2001,
 521,Le barbier,2001,
-522,"What They Wanted, What They Got",2001,
+"522,""What They Wanted, What They Got"",2001,"
 523,My Son,2001,40
 524,Fangs of My Heart,2001,
 525,Welcome to Hell,2001,
@@ -537,7 +537,7 @@
 535,L'arbre au chien pendu,2001,
 536,Room 302,2001,
 537,Maria,2001,
-538,"Gina, an Actress, Age 29",2001,
+"538,""Gina, an Actress, Age 29"",2001,"
 539,Petits riens,2001,
 540,Across the River,2001,43
 541,Shoot!,2001,
@@ -667,7 +667,7 @@
 665,Tea with Grandma,2001,
 666,Freedom Park,2001,
 667,Mala espina,2001,
-668,"Hasta aquí hemos llegao (desde el Vaticano, con amor)",2001,
+"668,""Hasta aquí hemos llegao (desde el Vaticano, con amor)"",2001,"
 669,Gypsy Rose,2001,
 670,A Loving Act,2001,
 671,10-Speed,2001,
@@ -725,7 +725,7 @@
 723,La jeune fille et les nuages,2001,
 724,Fairytale,2001,86
 725,Full,2001,
-726,"Gem et smil, Katrine",2001,
+"726,""Gem et smil, Katrine"",2001,"
 727,Ministère de la peur,2001,
 728,Paradiso,2001,
 729,The Love Doctor,2001,
@@ -735,9 +735,9 @@
 733,To foustani,2001,
 734,Con dos cojones,2001,
 735,Adventures in Paradise,2001,-
-736,"Borsh, el refugio",2001,
+"736,""Borsh, el refugio"",2001,"
 737,Aliento,2001,
-738,"Amor, dinero y salud, por este orden",2001,
+"738,""Amor, dinero y salud, por este orden"",2001,"
 739,Bañeras,2001,
 740,The Big Suitcase,2001,
 741,El diario de la abuela,2001,
@@ -836,11 +836,11 @@
 834,Verte,2001,
 835,David's Walls,2001,
 836,Diary of a Male Whore,2001,-
-837,"Buenas noches, papa",2001,
+"837,""Buenas noches, papa"",2001,"
 838,Porvari tanssii ja soi,2001,
 839,Zwanzig Minuten mit einem Engel,2001,
 840,Caja chica,2001,
-841,"Still Life, with Scissors",2001,
+"841,""Still Life, with Scissors"",2001,"
 842,Wyspa R.O.,2001,
 843,Rutina,2001,
 844,El delator,2001,
@@ -922,7 +922,7 @@
 920,Tunnel Vision,2001,32
 921,Czlowiek magnes,2001,
 922,Art of Love,2001,85
-923,"Money, Fear and Justice",2001,
+"923,""Money, Fear and Justice"",2001,"
 924,Size Matters,2001,-
 925,Coleridge's Couch,2001,
 926,Freaky Deaky 10 to 1,2001,
@@ -963,7 +963,7 @@
 961,Legekammeraten,2001,
 962,Alt er indeni,2001,
 963,Dystopia,2001,14
-964,"1,7",2001,
+"964,""1,7"",2001,"
 965,Metropollination,2001,
 966,Passing By,2001,
 967,Nan,2001,
@@ -987,7 +987,7 @@
 985,St. Christopher's Code,2001,
 986,Una mirada de amor,2001,
 987,Cambio de vida,2001,
-988,"Al, uno de tantos",2001,
+"988,""Al, uno de tantos"",2001,"
 989,American Obon,2001,
 990,Checkmates,2001,
 991,Sugar-Free,2001,
@@ -1126,7 +1126,7 @@
 1124,Der englische König,2002,
 1125,Intervalli chiaroscuri,2002,
 1126,Floortje,2002,
-1127,"Si vous le voyez, tuez-le de ma part",2002,
+"1127,""Si vous le voyez, tuez-le de ma part"",2002,"
 1128,Snipers Alley,2002,
 1129,Broken,2002,
 1130,Getting Out,2002,60
@@ -1182,7 +1182,7 @@
 1180,Tiempos mejores,2002,
 1181,Bleach,2002,
 1182,Ulises Pesares,2002,
-1183,"Uno más, uno menos",2002,
+"1183,""Uno más, uno menos"",2002,"
 1184,Seclusion,2002,
 1185,Abbie Down East,2002,
 1186,Not a Fish Story,2002,
@@ -1269,7 +1269,7 @@
 1267,A Drink in the Passage,2002,
 1268,Licks,2002,85
 1269,Le désert,2002,
-1270,"Short Hymn, Silent War",2002,
+"1270,""Short Hymn, Silent War"",2002,"
 1271,Sucker Shram,2002,
 1272,Mutante...,2002,
 1273,The Exchange,2002,65
@@ -1328,7 +1328,7 @@
 1326,Summer Blues,2002,
 1327,La paille et la poutre,2002,
 1328,The Tail,2002,
-1329,"Legkisebb film a legnagyobb magyarról, avagy ha nincs kéz nincs csoki",2002,
+"1329,""Legkisebb film a legnagyobb magyarról, avagy ha nincs kéz nincs csoki"",2002,"
 1330,The Visitor,2002,19
 1331,Kite,2002,67
 1332,Le dilemme d'Eya,2002,
@@ -1356,7 +1356,7 @@
 1354,Ready,2002,
 1355,One of Us,2002,93
 1356,Gesloten,2002,
-1357,"Ikke høre, ikke se...",2002,
+"1357,""Ikke høre, ikke se..."",2002,"
 1358,Lupaus,2002,
 1359,Oliver's Music,2002,
 1360,Ciudad de maravillas,2002,
@@ -1391,11 +1391,11 @@
 1389,Johnny Ostrich and His American Songbag,2002,
 1390,Hoshi no koe,2002,
 1391,No Passo da Véia,2002,
-1392,"Lembra, Meu Velho?",2002,
+"1392,""Lembra, Meu Velho?"",2002,"
 1393,Inside/Out,2002,
 1394,Schlüsselkinder,2002,
 1395,The Stairwell,2002,
-1396,"Deka meres, deka hronia",2002,
+"1396,""Deka meres, deka hronia"",2002,"
 1397,Polanow,2002,
 1398,They Always Listen,2002,
 1399,Vaga-lume,2002,
@@ -1556,7 +1556,7 @@
 1554,The Way Back,2003,74
 1555,Flush,2003,
 1556,Tystnadens röst,2003,
-1557,"Niin lähellä, niin kaukana",2003,
+"1557,""Niin lähellä, niin kaukana"",2003,"
 1558,Flamingo,2003,
 1559,Copelessness,2003,
 1560,Slowly Silently,2003,
@@ -1757,7 +1757,7 @@
 1755,Sometimes a Voice,2003,
 1756,Stradivarius,2003,
 1757,The Making of a Prodigy,2003,
-1758,"Back Up, Please",2003,
+"1758,""Back Up, Please"",2003,"
 1759,Night's Necromantic Rose,2003,
 1760,How to Lose a Guy,2003,
 1761,The Greek Man from Pakistan,2003,
@@ -1767,7 +1767,7 @@
 1765,The Hypocrit,2003,
 1766,Saoirse,2003,
 1767,Uma Folha Que Cai,2003,
-1768,"Ay del amor, ciego, eterno y fantasmal cual abandono",2003,
+"1768,""Ay del amor, ciego, eterno y fantasmal cual abandono"",2003,"
 1769,Holtvágány,2003,
 1770,Perspective,2003,
 1771,Still,2003,92
@@ -1864,7 +1864,7 @@
 1862,No Verbal Response,2003,
 1863,Cría cerdos,2003,
 1864,Out of Time,2003,64
-1865,"Your World, My World",2003,
+"1865,""Your World, My World"",2003,"
 1866,Whatever,2003,75
 1867,Bluefish,2003,
 1868,Love Never Dies,2003,71
@@ -1888,7 +1888,7 @@
 1886,Pôv' fille,2003,
 1887,Spank,2003,
 1888,Why We Ponder,2003,
-1889,"Two Cars, One Night",2003,80
+"1889,""Two Cars, One Night"",2003,80"
 1890,Redeemable in Merchandise,2003,
 1891,Terminal Venus,2003,
 1892,Writer's Block,2003,
@@ -2208,7 +2208,7 @@
 2206,L'homme sans ombre,2004,
 2207,Measure of Love,2004,
 2208,Bottom Floor,2004,
-2209,"Kaze, Ghost Warrior",2004,
+"2209,""Kaze, Ghost Warrior"",2004,"
 2210,Passageway,2004,
 2211,My People the Manatee,2004,
 2212,Faded,2004,
@@ -2266,7 +2266,7 @@
 2264,Scarlet Momentum,2004,
 2265,The Last Client,2004,
 2266,Luis,2004,
-2267,"The Last Alchemist, or How Wynn Albright Got His Comeuppance",2004,
+"2267,""The Last Alchemist, or How Wynn Albright Got His Comeuppance"",2004,"
 2268,Nightcrawlers,2004,
 2269,Fang des Lebens,2004,
 2270,Hotel Infinity,2004,
@@ -2461,7 +2461,7 @@
 2459,Innsmouth Legacy,2004,
 2460,Mina de Fé,2004,
 2461,Requiem,2004,86
-2462,"Selfless, Cold and Composed",2004,
+"2462,""Selfless, Cold and Composed"",2004,"
 2463,Sin un peso,2004,
 2464,Victoria para chino,2004,
 2465,La vulka,2004,
