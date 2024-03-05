@@ -1,4 +1,4 @@
-,0,1,2
+,titulo,anio,puntuacion_rotten
 0,Surviving in L.A.,2020,
 1,The Witches,2020,94
 2,Jak najdalej stad,2020,
@@ -16,7 +16,7 @@
 14,Pink Skies Ahead,2020,
 15,Manchurian Tiger,2020,
 16,Losers Revolution,2020,
-17,"Ok, está bien...",2020,
+"17,""Ok, está bien..."",2020,"
 18,Berliner,2020,
 19,Psycho Ape!,2020,
 20,Apples,2020,93
@@ -29,7 +29,7 @@
 27,Le voleur rose: Pink Thief,2020,
 28,Tout nous sourit,2020,
 29,La Liga de los 5,2020,
-30,"Wanda, mein Wunder",2020,
+"30,""Wanda, mein Wunder"",2020,"
 31,Fjols til Fjells,2020,
 32,The Prom,2020,54
 33,Fair Haven,2020,80
@@ -43,7 +43,7 @@
 41,Serious Men,2020,91
 42,Still Today,2020,
 43,Les blagues de Toto,2020,
-44,"Love, Weddings & Other Disasters",2020,3
+"44,""Love, Weddings & Other Disasters"",2020,3"
 45,Hullor,2020,
 46,The Perfect Mistress IV: Heartbreaker,2020,
 47,10 jours sans maman,2020,
@@ -169,7 +169,7 @@
 167,Fu*king Idiots,2020,
 168,Brutus vs César,2020,
 169,Unpregnant,2020,92
-170,"Berlin, Berlin",2020,
+"170,""Berlin, Berlin"",2020,"
 171,Lisa's Treasure,2020,
 172,Takeover,2020,
 173,Vikend sa caletom,2020,
@@ -231,7 +231,7 @@
 229,Duncan,2020,
 230,Cruise Control,2020,
 231,The Parcel,2020,
-232,"I love you, I swear",2020,
+"232,""I love you, I swear"",2020,"
 233,Suraj Pe Mangal Bhari,2020,
 234,Modo Avião,2020,
 235,Nashi Kotyky,2020,
@@ -240,7 +240,7 @@
 238,Aahvaan,2020,
 239,Teenage Girl: First Wheels,2020,-
 240,Cama Para Tres,2020,
-241,"Heinähattu, Vilttitossu ja ärhäkkä koululainen",2020,
+"241,""Heinähattu, Vilttitossu ja ärhäkkä koululainen"",2020,"
 242,Yerba Buena,2020,
 243,Sarileru Neekevvaru,2020,
 244,Headcheese: The Movie,2020,
@@ -264,9 +264,9 @@
 262,Swingersi,2020,
 263,Si j'étais fermier,2020,
 264,Bill & Ted Face the Music,2020,82
-265,"Kamen Raidâ Jiô Next Time: Geitsu, majesutî",2020,
+"265,""Kamen Raidâ Jiô Next Time: Geitsu, majesutî"",2020,"
 266,An Exquisite Meal,2020,-
-267,"Carnies, Clowns and Cocaine",2020,
+"267,""Carnies, Clowns and Cocaine"",2020,"
 268,Happy Hardy and Heer,2020,
 269,The Gigolo Volume 1,2020,
 270,I Used to Go Here,2020,85
@@ -342,7 +342,7 @@
 340,Mit dem Rückwärtsgang nach vorn,2020,
 341,The Christmas Chronicles: Deel twee,2020,
 342,Maniyarayile Ashokan,2020,-
-343,"The More, the Merrier",2020,
+"343,""The More, the Merrier"",2020,"
 344,Who's Your Daddy?,2020,39
 345,À l'abordage,2020,
 346,La Calor,2020,
@@ -355,7 +355,7 @@
 353,The Bloody Indulgent Regurgitated,2020,
 354,Planet George,2020,
 355,Hayop Ka!,2020,
-356,"Love, Guaranteed",2020,
+"356,""Love, Guaranteed"",2020,"
 357,Halal Love Story,2020,75
 358,Reboot Camp,2020,94
 359,Indoo Ki Jawani,2020,
@@ -396,7 +396,7 @@
 394,The Duke,2020,97
 395,Divorzio a Las Vegas,2020,
 396,30 jours max,2020,22
-397,"Koncentrisi se, baba",2020,
+"397,""Koncentrisi se, baba"",2020,"
 398,Omelette,2020,
 399,Sar Car Ki Seva Mei,2020,
 400,Doordarshan,2020,-
@@ -411,7 +411,7 @@
 409,Romeo,2020,
 410,O Pushpa I Hate Tears,2020,
 411,Um Fio de Baba Escarlate,2020,90
-412,"Everything, nothing and something else",2020,
+"412,""Everything, nothing and something else"",2020,"
 413,Hasta Que La Suerte Nos Separe,2020,
 414,The Jungle of Accounting,2020,
 415,Uncle Ted,2020,
@@ -464,7 +464,7 @@
 462,Linus,2020,
 463,Kyo kara ore wa!,2020,
 464,We Are Freestyle Love Supreme,2020,
-465,"Omoi, Omoware, Furi, Furare",2020,
+"465,""Omoi, Omoware, Furi, Furare"",2020,"
 466,3 Days 4 Nights in Bihar,2020,
 467,Solo Brathuke So Better,2020,
 468,Borderline Crazy,2020,
@@ -479,7 +479,7 @@
 477,Cheer Up,2020,-
 478,Just Be Claus,2020,
 479,Choricha Mamla,2020,
-480,"Gott, du kannst ein Arsch sein",2020,-
+"480,""Gott, du kannst ein Arsch sein"",2020,-"
 481,Me Gusta la Tuya,2020,
 482,Sofa King,2020,
 483,Inspector Ike,2020,100
@@ -564,7 +564,7 @@
 562,Too Late,2021,75
 563,Violeta y los días Grises,2021,
 564,School's Out Forever,2021,
-565,"Najmro: Kocha, kradnie, szanuje",2021,
+"565,""Najmro: Kocha, kradnie, szanuje"",2021,"
 566,The Charmed Life of Fig Dauphine,2021,
 567,Babel Raid,2021,
 568,Hero Mode,2021,
@@ -573,7 +573,7 @@
 571,Zwaar verliefd! 2,2021,
 572,Battle Bordel,2021,
 573,Bhasadbaaz,2021,
-574,"Me, Myself and Di",2021,
+"574,""Me, Myself and Di"",2021,"
 575,Bunty Aur Babli 2,2021,17
 576,Koko,2021,
 577,Quem Vai Ficar com Mário?,2021,
@@ -597,7 +597,7 @@
 595,Al-Baadh La Yathhab Lil Maathoun Marratain,2021,
 596,Ritorno al crimine,2021,
 597,Tichy Spolecnik,2021,
-598,"Prvok, Sampon, Tecka a Karel",2021,
+"598,""Prvok, Sampon, Tecka a Karel"",2021,"
 599,For Your Own Sake,2021,
 600,Stars Fell on Alabama,2021,54
 601,A parkolóban,2021,
@@ -611,7 +611,7 @@
 609,C Section,2021,
 610,Gintama: The Final,2021,
 611,Jesus John,2021,
-612,"Gulyay, Vasya! Svidanie na Bali",2021,
+"612,""Gulyay, Vasya! Svidanie na Bali"",2021,"
 613,Supereroi,2021,
 614,Gender Crisis,2021,
 615,Galeria Futuro,2021,
@@ -755,12 +755,12 @@
 753,Helmet,2021,
 754,C.I.Ape,2021,95
 755,Gu dong ju zhong ju,2021,
-756,"Phornix, AZ",2021,
+"756,""Phornix, AZ"",2021,"
 757,Plan Panni Pannanum,2021,
 758,Old Ladies Find Money,2021,
 759,Motel,2021,
 760,8-Bit Christmas,2021,84
-761,"Help, I Shrunk My Friends",2021,
+"761,""Help, I Shrunk My Friends"",2021,"
 762,Innumuthal,2021,
 763,Ren chao xiong yong,2021,
 764,Los trapos sucios se lavan en casa,2021,
@@ -821,7 +821,7 @@
 819,Lady of the Manor,2021,25
 820,Not Me,2021,
 821,PAW Patrol: The Movie,2021,80
-822,"Mark, Mary & Some Other People",2021,57
+"822,""Mark, Mary & Some Other People"",2021,57"
 823,Roomates!,2021,
 824,Welcome to the Show,2021,
 825,Space-X,2021,
@@ -866,7 +866,7 @@
 864,Veintitontas,2021,
 865,Red Snow,2021,75
 866,Rumba la vie,2021,
-867,"Corona, Corona",2021,
+"867,""Corona, Corona"",2021,"
 868,Huttu Habbada Shubhashayagalu,2021,
 869,Cuando Sea Joven,2021,95
 870,Roller World,2021,
@@ -875,7 +875,7 @@
 873,Money Fight,2021,
 874,Close Caption,2021,-
 875,Alles op tafel,2021,
-876,"No, porque me enamoro",2021,
+"876,""No, porque me enamoro"",2021,"
 877,Quaid-e-Azam Zindabad,2021,
 878,Just Say Yes,2021,26
 879,Get Rite Auto,2021,
@@ -933,7 +933,7 @@
 931,Ullu De Patthey,2021,
 932,L'employée du mois,2021,
 933,Suswagatam Khushamadeed,2021,
-934,"It's Not You, It's Me",2021,71
+"934,""It's Not You, It's Me"",2021,71"
 935,Michael & Maria vs. the Multiverse: a tragedy,2021,
 936,Super Hot,2021,
 937,Seni Buldum Ya,2021,
@@ -1006,7 +1006,7 @@
 1004,The Christmas Spirit,2022,
 1005,Sneakerella,2022,92
 1006,Gap Weekend,2022,
-1007,"Bernice, Too",2022,
+"1007,""Bernice, Too"",2022,"
 1008,Wyjdź za mnie,2022,
 1009,Stroke of Luck,2022,-
 1010,Strange World,2022,72
@@ -1052,7 +1052,7 @@
 1050,I Want to Thank the Academy,2022,
 1051,Sex Appeal,2022,57
 1052,Patel Vs Patrick,2022,
-1053,"SÍ, A TODO",2022,
+"1053,""SÍ, A TODO"",2022,"
 1054,Rock Dog 3: Battle the Beat,2022,80
 1055,Going Down,2022,41
 1056,Il cacio con le pere,2022,
@@ -1112,7 +1112,7 @@
 1110,Maybe Someday,2022,
 1111,Malcriados,2022,60
 1112,Galwakdi,2022,
-1113,"Camera Café, la película",2022,
+"1113,""Camera Café, la película"",2022,"
 1114,Horny,2022,
 1115,Something Good Coming,2022,
 1116,When You Finish Saving the World,2022,62
@@ -1126,7 +1126,7 @@
 1124,Volta,2022,
 1125,Detective Inspector,2022,
 1126,Grandpa's Crazy?,2022,
-1127,"Espejo, Espejo",2022,
+"1127,""Espejo, Espejo"",2022,"
 1128,Yoshiplush Ps4: The Movie,2022,
 1129,Stárí není pro sraby,2022,
 1130,Sonic the Hedgehog 2,2022,69
@@ -1165,7 +1165,7 @@
 1163,Revolta,2022,
 1164,Raksha Bandhan,2022,
 1165,Il peggior lavoro della mia vita,2022,
-1166,"Gorzko, gorzko!",2022,
+"1166,""Gorzko, gorzko!"",2022,"
 1167,Cameron Cool,2022,
 1168,Zombivli,2022,
 1169,The Dip Run 2,2022,
@@ -1190,13 +1190,13 @@
 1188,Gli anni belli,2022,
 1189,Reflections,2022,
 1190,Los Foodtruckeros,2022,
-1191,"Goodbye, Petrushka",2022,
+"1191,""Goodbye, Petrushka"",2022,"
 1192,Murder Ballads: How to Make It in Rock 'n' Roll,2022,
 1193,Miss Viborg,2022,
 1194,Upacharapoorvam Gunda Jayan,2022,
 1195,Zalo,2022,
 1196,Thomas mot Thomas (en sensasjonell teori om det ubetydelige livet i multiverset),2022,
-1197,"Por los pelos, una historia de autoestima",2022,
+"1197,""Por los pelos, una historia de autoestima"",2022,"
 1198,Buggers,2022,
 1199,DJ Tillu,2022,
 1200,Dear Universe,2022,
@@ -1218,7 +1218,7 @@
 1216,Envol,2022,
 1217,Bigfoot or Bust,2022,-
 1218,Bla Bla Baby,2022,
-1219,"Good Luck to You, Leo Grande",2022,
+"1219,""Good Luck to You, Leo Grande"",2022,"
 1220,Tisdagsklubben,2022,
 1221,Ik wist het,2022,
 1222,Sophie and the Serial Killers,2022,
@@ -1329,7 +1329,7 @@
 1327,Betlémské svetlo,2022,
 1328,Eiga Yurukyan,2022,
 1329,Cha Cha Real Smooth,2022,
-1330,"Valentino, Puedes ser tu propio héroe o villano",2022,
+"1330,""Valentino, Puedes ser tu propio héroe o villano"",2022,"
 1331,Sheer Pandemic,2022,
 1332,Chaalbaaz in London,2022,
 1333,Bulki,2022,
@@ -1380,7 +1380,7 @@
 1378,Any Time Hekdi,2022,
 1379,Gajanana and gang,2022,
 1380,Ride Sally Ride,2022,
-1381,"Lyle, Lyle, Crocodile",2022,71
+"1381,""Lyle, Lyle, Crocodile"",2022,71"
 1382,The Tesla Case,2022,
 1383,Circenisa Ziemassvetki,2022,
 1384,Better Nate Than Ever,2022,83
@@ -1474,7 +1474,7 @@
 1472,No Shark,2022,
 1473,Sistema Bruto,2022,
 1474,The Same Side of Danger,2022,
-1475,"Wake Up, Leonard",2022,
+"1475,""Wake Up, Leonard"",2022,"
 1476,Tree Hugger,2022,
 1477,Bromates,2022,0
 1478,Dead Rappers,2022,

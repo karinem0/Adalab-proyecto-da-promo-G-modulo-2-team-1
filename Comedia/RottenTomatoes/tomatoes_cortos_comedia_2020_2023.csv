@@ -1,4 +1,4 @@
-,0,1,2
+,titulo,anio,puntuacion_rotten
 0,Paranoia Tapes: URBAN LEGEND,2020,
 1,The Last Queen on Earth,2020,
 2,Like.Share.Repost.,2020,
@@ -35,7 +35,7 @@
 33,Dive Under,2020,
 34,Life Undefined,2020,
 35,Bad Day Sam,2020,
-36,"Oh, Baby!",2020,
+"36,""Oh, Baby!"",2020,"
 37,What Bitch?,2020,
 38,Ett hett rum,2020,
 39,We All Just Want to Be Mad,2020,
@@ -51,7 +51,7 @@
 49,Muy Gay Too Mexicano,2020,
 50,How to Quit,2020,
 51,Mystery Flavor,2020,
-52,"The Nun, the Witch and the Bloodsucker",2020,
+"52,""The Nun, the Witch and the Bloodsucker"",2020,"
 53,A New Leash on Life,2020,
 54,Green Cobra,2020,
 55,Cruel Shoes,2020,
@@ -70,9 +70,9 @@
 68,Road Kill Renegade,2020,
 69,F.M. Live,2020,
 70,1995,2020,
-71,"Have Wine, Will Travel",2020,-
+"71,""Have Wine, Will Travel"",2020,-"
 72,Ripe,2020,0
-73,"The End, The Beginning",2020,
+"73,""The End, The Beginning"",2020,"
 74,Pink Bike,2020,
 75,Forestillingen om VI,2020,
 76,Budget Dus Hazaar,2020,
@@ -118,7 +118,7 @@
 116,All about girls,2020,
 117,Take Care of Me,2020,
 118,Balnéothérapie,2020,
-119,"Fools, Gold",2020,
+"119,""Fools, Gold"",2020,"
 120,HBDTM,2020,
 121,Misconnected,2020,
 122,Orthorexia,2020,
@@ -187,7 +187,7 @@
 185,The Parts That Stay,2020,
 186,Punch,2020,81
 187,This Blessed Plot,2020,100
-188,"Scarlett, Shanghai & Me",2020,
+"188,""Scarlett, Shanghai & Me"",2020,"
 189,PRIM/GATE,2020,
 190,Oddawa,2020,
 191,Clip,2020,
@@ -200,7 +200,7 @@
 198,Mixer,2020,
 199,Duck Egg Blue,2020,
 200,The Ultimate Showdown,2020,
-201,"Two Wizards, One Staff",2020,-
+"201,""Two Wizards, One Staff"",2020,-"
 202,Cultured,2020,
 203,Scandalo al sole,2020,
 204,Boomslang,2020,
@@ -237,7 +237,7 @@
 235,Two Pan Dan,2020,
 236,Don't Try This Alone,2020,
 237,A House Divided,2020,-
-238,"So, What Do You Think?",2020,
+"238,""So, What Do You Think?"",2020,"
 239,Yet Another,2020,
 240,The Robbery,2020,
 241,The Usual Students,2020,
@@ -316,7 +316,7 @@
 314,Rematch,2020,
 315,Nice to Meet You,2020,
 316,The Split,2020,76
-317,"Neighbors, Breakups and Surprises",2020,
+"317,""Neighbors, Breakups and Surprises"",2020,"
 318,Crocodile Tears,2020,-
 319,Support,2020,
 320,Jenna Gets an Abortion,2020,
@@ -330,7 +330,7 @@
 328,Buck Tucker,2020,
 329,Rice & Bread,2020,
 330,Thunder Fit,2020,
-331,"Valet, Please!",2020,
+"331,""Valet, Please!"",2020,"
 332,Tavlan,2020,
 333,Becoming Grim,2020,
 334,Swipe Right,2020,
@@ -374,7 +374,7 @@
 372,Seven Seconds,2020,78
 373,The Women's Room,2020,-
 374,Pink Elephant,2020,-
-375,"Ding-Ding, Next",2020,
+"375,""Ding-Ding, Next"",2020,"
 376,Peanut,2020,
 377,Dealhership,2020,
 378,The Messenger,2020,90
@@ -500,7 +500,7 @@
 498,A Guide to Being Herman,2020,
 499,Sugarbabies,2020,
 500,The International Style,2021,
-501,"Oak, Ivy, and Other Dead Elms",2021,
+"501,""Oak, Ivy, and Other Dead Elms"",2021,"
 502,If I Only had a Name,2021,
 503,La metafísica del asesino,2021,
 504,Welcome to Mumbai,2021,
@@ -590,7 +590,7 @@
 588,Don't Frighten the Horses,2021,
 589,Roundabouts,2021,
 590,Tuxedo Terrace,2021,
-591,"Pussy, Pussy, Bling, Bling",2021,
+"591,""Pussy, Pussy, Bling, Bling"",2021,"
 592,Withdrawals,2021,
 593,Sweet Dreams,2021,100
 594,Dating Death,2021,33
@@ -610,7 +610,7 @@
 608,Hot Pink,2021,
 609,Debt Men,2021,
 610,Cactus & Mime,2021,
-611,"Sex, Likes and Stories",2021,
+"611,""Sex, Likes and Stories"",2021,"
 612,Alma and the Climate,2021,
 613,Dans les parages,2021,
 614,Bruits blancs,2021,
@@ -623,7 +623,7 @@
 621,Color My World,2021,
 622,No Hard Feelings,2021,70
 623,Bloom,2021,-
-624,"Come On, Shake Your Body Baby, Do the Conga!",2021,
+"624,""Come On, Shake Your Body Baby, Do the Conga!"",2021,"
 625,Beach Boy,2021,
 626,Till Death,2021,
 627,Welcome to Usma,2021,
@@ -655,7 +655,7 @@
 653,Behind the Mask,2021,38
 654,Lost Signal,2021,
 655,Handbook for a Privileged European Woman,2021,
-656,"We're doing our best, right?",2021,
+"656,""We're doing our best, right?"",2021,"
 657,Coasters: A Film by Ben Kurns,2021,
 658,Dot Dot Dot,2021,
 659,Popcorn,2021,-
@@ -677,7 +677,7 @@
 675,Lash!,2021,
 676,Virus Fem,2021,
 677,Baelin's Route: An Epic NPC Man Adventure,2021,
-678,"Strange Lover, Or: How I Learned to Stop Worrying and Love the Quarantine",2021,
+"678,""Strange Lover, Or: How I Learned to Stop Worrying and Love the Quarantine"",2021,"
 679,Winning in America,2021,
 680,Last Fish Finger in the World,2021,
 681,Bound,2021,87
@@ -773,7 +773,7 @@
 771,Literary Attention,2021,
 772,Tigerlilly,2021,
 773,American Girl,2021,100
-774,"Have Courage, Clarence!",2021,
+"774,""Have Courage, Clarence!"",2021,"
 775,The Man at the Bottom of the Garden,2021,
 776,Mugsey Seaside Drive,2021,
 777,American Scumbag,2021,
@@ -790,12 +790,12 @@
 788,Fizz Brains,2021,
 789,Psycho Therapy,2021,
 790,Recline Time,2021,
-791,"Us, Again",2021,
+"791,""Us, Again"",2021,"
 792,Mikey & Marie,2021,
 793,Compliant,2021,
 794,Knock,2021,
 795,Man Haunt,2021,
-796,"Sing, O Muse",2021,
+"796,""Sing, O Muse"",2021,"
 797,A Woman in Heat,2021,
 798,Tycu II,2021,
 799,Dagger,2021,
@@ -811,7 +811,7 @@
 809,Primary Concern,2021,
 810,Taylor & Barinov 3,2021,
 811,Our Friend Andrew,2021,
-812,"It's Not You, It's Her",2021,
+"812,""It's Not You, It's Her"",2021,"
 813,The Announcement,2021,-
 814,Teens,2021,
 815,A Few Miles South,2021,
@@ -839,7 +839,7 @@
 837,Show Me What You Got,2021,80
 838,Covid Tales: House Party,2021,
 839,Hell in a Handbasket,2021,
-840,"Love, Carol",2021,
+"840,""Love, Carol"",2021,"
 841,Sí,2021,
 842,Bucket Hat!,2021,
 843,From Here to Here,2021,
@@ -900,7 +900,7 @@
 898,Intriga,2021,
 899,Putt,2021,
 900,Santa's Night Out,2021,
-901,"Stand Up, Please",2021,
+"901,""Stand Up, Please"",2021,"
 902,The Confessionist,2021,
 903,Acrimonius Alfie Atkins,2021,
 904,Lost for Words,2021,94
@@ -927,7 +927,7 @@
 925,Someone Gets Shot!,2021,
 926,What to Eat,2021,
 927,Smoke 'N Mirrors,2021,
-928,"Love, Pizza and Zombies",2021,
+"928,""Love, Pizza and Zombies"",2021,"
 929,The Fuzzies,2021,
 930,The Barbaric Bavarian Beverage Brawl,2021,
 931,Thank You for Being Here,2021,
@@ -953,7 +953,7 @@
 951,ENDOMIC,2021,
 952,The Pickup,2021,
 953,Star Crossed,2021,
-954,"La vida de Michelle Pfeiffer, en general",2021,
+"954,""La vida de Michelle Pfeiffer, en general"",2021,"
 955,Producenten,2021,
 956,Bunker Down Under,2021,
 957,Coyote,2021,62
@@ -986,7 +986,7 @@
 984,Carta à A.H.,2021,
 985,Learning to Cuss,2021,
 986,Assimilation,2021,
-987,"The Horror, the Horror",2021,
+"987,""The Horror, the Horror"",2021,"
 988,Pawsea (or: The Melancholy Ruminations of a Solitary French Bulldog),2021,
 989,Un vampiro hispano,2021,
 990,Not Funny,2021,
@@ -1023,7 +1023,7 @@
 1021,Samsara,2022,100
 1022,Smoke and Mirrors,2022,
 1023,Peaches the Cat,2022,
-1024,"Carro, ferro, farro",2022,
+"1024,""Carro, ferro, farro"",2022,"
 1025,You've Earned It,2022,
 1026,Killer Roadtrip,2022,
 1027,A Walk in West LA,2022,
@@ -1054,7 +1054,7 @@
 1052,The Great Pacific Race,2022,
 1053,Don't Say Vagina!,2022,
 1054,Mona,2022,
-1055,"Exist, Not Exist",2022,
+"1055,""Exist, Not Exist"",2022,"
 1056,The Love Spell,2022,
 1057,Exsanguinated by a Bulkhead Monster,2022,
 1058,Terminator: Bad Judgment Day,2022,
@@ -1075,7 +1075,7 @@
 1073,Bagg-age,2022,
 1074,Dodgy Dealings,2022,
 1075,Hellbender,2022,97
-1076,"Danika, lord of dawa",2022,
+"1076,""Danika, lord of dawa"",2022,"
 1077,Slaves of the Abuser,2022,
 1078,Two's a Crowd,2022,
 1079,Carpe Diem,2022,
@@ -1187,14 +1187,14 @@
 1185,The Tenant,2022,84
 1186,Posers,2022,
 1187,Starch,2022,
-1188,"Love, Bigfoot",2022,
+"1188,""Love, Bigfoot"",2022,"
 1189,Survival Job,2022,
 1190,Miami All Over Again,2022,
 1191,Census,2022,
 1192,Veto,2022,
 1193,Reese & Rone,2022,
 1194,¡Quién bailara dos piezas!,2022,
-1195,"Monkey-Love, Please Hold",2022,
+"1195,""Monkey-Love, Please Hold"",2022,"
 1196,Das Stöhnen,2022,
 1197,Hallelujah,2022,
 1198,The Sinister Tale of Scoopy Burger,2022,
@@ -1214,13 +1214,13 @@
 1212,Not Served on A Plate,2022,
 1213,Luv 2 Dance,2022,
 1214,Nails & Beauty,2022,
-1215,"Julie, Julia (and Judy)",2022,
+"1215,""Julie, Julia (and Judy)"",2022,"
 1216,Sin Salida,2022,
 1217,Lärarlyftet,2022,
 1218,Love at Third Sight,2022,
 1219,Stray Identity,2022,
 1220,Lollygag,2022,
-1221,"The Good, the Bad and the Buggy",2022,
+"1221,""The Good, the Bad and the Buggy"",2022,"
 1222,Audition in Hell,2022,
 1223,Master Giovanni N the Movie,2022,
 1224,Little Lark,2022,
@@ -1242,7 +1242,7 @@
 1240,The Last Mechanic,2022,
 1241,ChickenQueen Paradise,2022,
 1242,Headshots,2022,
-1243,"Pool Service, Inc",2022,
+"1243,""Pool Service, Inc"",2022,"
 1244,Take Me to Your Influencer,2022,
 1245,Skip to the End,2022,
 1246,Podcast Killed the radio Star,2022,
@@ -1256,7 +1256,7 @@
 1254,Bing Bang Blussey,2022,
 1255,A Severe Case of Prudery,2022,
 1256,Baggage,2022,
-1257,"Dead, But Whatever",2022,
+"1257,""Dead, But Whatever"",2022,"
 1258,Don't Look At Me,2022,
 1259,Lo Sguardo,2022,
 1260,Jakob & Maria,2022,
@@ -1264,7 +1264,7 @@
 1262,Cub Scout,2022,
 1263,A Little Girl with a Bow and Arrow,2022,
 1264,Wei-Lai,2022,
-1265,"Scotch, Please",2022,
+"1265,""Scotch, Please"",2022,"
 1266,Modest Male Exposure,2022,
 1267,Dude Tips! w/ Florpy (The Man-Child Comedian),2022,
 1268,Chaos Theory,2022,30
@@ -1363,7 +1363,7 @@
 1361,Safe Word,2022,
 1362,Like Dirt,2022,
 1363,Joulun Ihme,2022,
-1364,"Christy, Casey, Lou and Cindy Too",2022,
+"1364,""Christy, Casey, Lou and Cindy Too"",2022,"
 1365,Dirtbag,2022,
 1366,Body of Ashes,2022,
 1367,Other People's Problems,2022,
@@ -1382,7 +1382,7 @@
 1380,Deductible,2022,
 1381,Check Date,2022,
 1382,Las uñas de Don Julio,2022,
-1383,"Don't You Want Me, Baby?",2022,
+"1383,""Don't You Want Me, Baby?"",2022,"
 1384,Megan,2022,
 1385,Playbill,2022,
 1386,Inferno,2022,23
@@ -1430,10 +1430,10 @@
 1428,Firecracker,2022,49
 1429,Love Me Now Please,2022,
 1430,La casa de Fermín,2022,
-1431,"After You, Please.",2022,
+"1431,""After You, Please."",2022,"
 1432,Don Enfermedad,2022,
 1433,Banana Palace,2022,
-1434,"Stress, why you do dis?",2022,
+"1434,""Stress, why you do dis?"",2022,"
 1435,Meet My Family,2022,
 1436,Gifts,2022,
 1437,South Pasadena 2,2022,
@@ -1523,7 +1523,7 @@
 1521,Briefcase,2023,
 1522,Bugbear II,2023,
 1523,Simpleman,2023,
-1524,"Oh, Marie",2023,
+"1524,""Oh, Marie"",2023,"
 1525,Gold and Mud,2023,
 1526,The Phoney,2023,
 1527,Flags and Emblems,2023,
@@ -1551,14 +1551,14 @@
 1549,Alex and Ethan's Multiversal Misadventures,2023,
 1550,Hope,2023,98
 1551,Day at the Zoo,2023,
-1552,"Mission A, Plan B",2023,
+"1552,""Mission A, Plan B"",2023,"
 1553,Relatively Bad Date,2023,
 1554,We Kray Kray,2023,
 1555,Baba,2023,
 1556,The Perfect Knight,2023,
 1557,Letter Eight,2023,
 1558,Aaaah!,2023,
-1559,"Le Père, le Fils et le Rav Kalmenson",2023,
+"1559,""Le Père, le Fils et le Rav Kalmenson"",2023,"
 1560,Brodeo,2023,
 1561,Slippin',2023,
 1562,Oh Deer!,2023,
@@ -1580,13 +1580,13 @@
 1578,Closing Up Shop,2023,
 1579,The French Teacher,2023,
 1580,Donald Duck in Too Late for Christmas,2023,
-1581,"Fuck Me, Richard",2023,
+"1581,""Fuck Me, Richard"",2023,"
 1582,I Love Diz,2023,
 1583,Yarrumilla Thaniaaraiyil,2023,
 1584,Leaving the Dream,2023,
 1585,Bad with Kids,2023,
 1586,Work-Life Balance,2023,
-1587,"With Love, from Ray Bradbury",2023,
+"1587,""With Love, from Ray Bradbury"",2023,"
 1588,ScarePods,2023,
 1589,Night Lights,2023,
 1590,What A Waste!,2023,
@@ -1615,7 +1615,7 @@
 1613,Addiction,2023,
 1614,Second Person,2023,
 1615,(In)convenience,2023,
-1616,"No Way, Bidet",2023,
+"1616,""No Way, Bidet"",2023,"
 1617,When Your Sister Is Getting Married to Your Crush,2023,
 1618,Noches de Abril,2023,
 1619,The Worst Day of My Life in Detroit,2023,
@@ -1720,7 +1720,7 @@
 1718,Cone of Uncertainty,2023,
 1719,Pricks & Chicks,2023,
 1720,Cock Robin,2023,
-1721,"X-III by Night, Z-IV in Another Life",2023,
+"1721,""X-III by Night, Z-IV in Another Life"",2023,"
 1722,Steak,2023,
 1723,Gazfickók,2023,
 1724,Burger Boy,2023,
@@ -1790,7 +1790,7 @@
 1788,S.O.S en dé treize,2023,
 1789,La Grinta,2023,
 1790,Wedding Song,2023,
-1791,"Don't Kill Me, I Can Be Your Butler!",2023,
+"1791,""Don't Kill Me, I Can Be Your Butler!"",2023,"
 1792,Missed Connections,2023,-
 1793,The Favorite,2023,
 1794,The Business,2023,
@@ -1861,7 +1861,7 @@
 1859,Vacant,2023,
 1860,Nose Goes,2023,
 1861,Artesanía,2023,
-1862,"At the Gathering, I Lost My Phone",2023,
+"1862,""At the Gathering, I Lost My Phone"",2023,"
 1863,Smile Airlines,2023,
 1864,Tastey Matey,2023,
 1865,Treat Myself,2023,
@@ -1921,14 +1921,14 @@
 1919,Jellyfish and Lobster,2023,
 1920,It Ain't What You Think It Is,2023,
 1921,Rest in Piss,2023,
-1922,"If You Have Any Information, Please Call:",2023,
+"1922,""If You Have Any Information, Please Call:"",2023,"
 1923,UGA: Biedeigais B,2023,
 1924,A Turkey's Time,2023,
 1925,Wish You Well,2023,70
 1926,The Lord's Work,2023,
 1927,Second Chance,2023,
 1928,Justice Is Served,2023,
-1929,"Crouching Party, Drunken Cleric",2023,
+"1929,""Crouching Party, Drunken Cleric"",2023,"
 1930,2 Days in Vegas,2023,
 1931,Float,2023,55
 1932,Instant Chaos Repellent Commercial,2023,
@@ -1966,7 +1966,7 @@
 1964,Everything is Great and Nobody's Happy,2023,
 1965,Fixing Barry,2023,
 1966,Dirty Laundry,2023,50
-1967,"Shaun, Ron, & Johnny: Bounty Hunters",2023,
+"1967,""Shaun, Ron, & Johnny: Bounty Hunters"",2023,"
 1968,The Apps,2023,
 1969,IAS interview,2023,
 1970,The Fools Who Dream,2023,
