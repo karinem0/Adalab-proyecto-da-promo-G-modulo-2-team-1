@@ -7,7 +7,7 @@ CREATE TABLE Peliculas (
     Titulo VARCHAR(255),
     AnioEstreno INT,
     MesEstreno INT,
-    IdPelicula VARCHAR(50)
+    IdPelicula VARCHAR(50),
     PRIMARY KEY (IdPelicula)
 );
 
@@ -20,8 +20,8 @@ CREATE TABLE Detalles (
     Duracion INT,
     Genero VARCHAR(50),
     Titulo VARCHAR(255),
-    IdPelicula VARCHAR(50)
-    PRIMARY KEY (Genero , IdPelicula)
+    IdPelicula VARCHAR(50),
+    PRIMARY KEY (Genero , IdPelicula),
     FOREIGN KEY (IdPelicula) REFERENCES Peliculas(IdPelicula)
 );
  
@@ -31,7 +31,7 @@ CREATE TABLE Actores (
     AnioNacimiento INT,
     QueHace VARCHAR(255),
     ConocidoPor VARCHAR(500),
-    Premios VARCHAR(255)
+    Premios VARCHAR(255),
     PRIMARY KEY (Actor)
 );
 
@@ -42,7 +42,7 @@ CREATE TABLE PremiosOscar (
     MejorDirector VARCHAR (255),
     MejorActor VARCHAR (255),
     MejorActriz VARCHAR (255),
-    IdPelicula VARCHAR(50)
-    PRIMARY KEY (Anio)
+    IdPelicula VARCHAR(50),
+    PRIMARY KEY (Anio),
     FOREIGN KEY (IdPelicula) REFERENCES Peliculas(IdPelicula)
   );
