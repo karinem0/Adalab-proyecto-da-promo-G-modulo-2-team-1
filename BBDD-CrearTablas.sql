@@ -1,6 +1,6 @@
-CREATE DATABASE CinemExtract;
+CREATE DATABASE Proyecto_CinemExtract;
 
-USE CinemExtract;
+USE Proyecto_CinemExtract;
 
 CREATE TABLE Peliculas (
     Tipo VARCHAR(50), 
