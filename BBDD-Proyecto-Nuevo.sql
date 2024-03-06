@@ -3,44 +3,46 @@ CREATE DATABASE CinemExtract;
 USE CinemExtract;
 
 CREATE TABLE Peliculas (
-    IdPelicula INT PK AUTOINCREMENT,
-    Tipo VARCHAR(50), -- Tipo: Corto o Película
+    Tipo VARCHAR(50), 
     Titulo VARCHAR(255),
-    AñoEstreno INT,
+    AnioEstreno INT,
     MesEstreno INT,
     IdPelicula VARCHAR(50)
+    PRIMARY KEY (IdPelicula)
 );
-
 
 CREATE TABLE Detalles (
     PuntuacionRottenTomatoes INT,
     PuntuacionIMDB FLOAT,
-    Dirección VARCHAR(255),
+    Direccion VARCHAR(255),
     Guion VARCHAR(255),
     Argumento TEXT,
     Duracion INT,
     Genero VARCHAR(50),
     Titulo VARCHAR(255),
-    anio INT
+    IdPelicula VARCHAR(50)
+    PRIMARY KEY (Genero , IdPelicula)
+    FOREIGN KEY (IdPelicula)
 );
-
-  
+ 
 
 CREATE TABLE Actores (
     Actor VARCHAR(50),
-    Anionacimiento INT,
-    quehace VARCHAR(255),
-    conocidopor VARCHAR(500),
-    Premios VARCHAR(255),
-    
+    AnioNacimiento INT,
+    QueHace VARCHAR(255),
+    ConocidoPor VARCHAR(500),
+    Premios VARCHAR(255)
+    PRIMARY KEY (Actor)
 );
 
 
 CREATE TABLE PremiosOscar (
-    Año INT,
-    MejorPeliculaID VARCHAR (255),
-    MejorDirectorID VARCHAR (255),
-    MejorActorID VARCHAR (255),
-    MejorActrizID VARCHAR (255),
-    PRIMARY KEY (Año)
+    Anio INT,
+    MejorPelicula VARCHAR (255),
+    MejorDirector VARCHAR (255),
+    MejorActor VARCHAR (255),
+    MejorActriz VARCHAR (255),
+    IdPelicula VARCHAR(50)
+    PRIMARY KEY (Anio)
+    FOREIGN KEY (IdPelicula)
   );
