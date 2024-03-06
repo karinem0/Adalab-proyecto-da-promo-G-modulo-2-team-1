@@ -22,7 +22,7 @@ CREATE TABLE Detalles (
     Titulo VARCHAR(255),
     IdPelicula VARCHAR(50)
     PRIMARY KEY (Genero , IdPelicula)
-    FOREIGN KEY (IdPelicula)
+    FOREIGN KEY (IdPelicula) REFERENCES Peliculas(IdPelicula)
 );
  
 
@@ -44,5 +44,5 @@ CREATE TABLE PremiosOscar (
     MejorActriz VARCHAR (255),
     IdPelicula VARCHAR(50)
     PRIMARY KEY (Anio)
-    FOREIGN KEY (IdPelicula)
+    FOREIGN KEY (IdPelicula) REFERENCES Peliculas(IdPelicula)
   );
