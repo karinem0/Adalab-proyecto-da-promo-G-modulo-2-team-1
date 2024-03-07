@@ -89,7 +89,7 @@ LIMIT 1; ---- ¿?
 
 SELECT Tipo, Nombre, PuntuacionIMDB
 FROM Peliculas
-WHERE Tipo = 'Serie'
+WHERE Tipo = 'Cortometraje'
 ORDER BY PuntuacionIMDB DESC
 LIMIT 1; ---- ¿?---
 
