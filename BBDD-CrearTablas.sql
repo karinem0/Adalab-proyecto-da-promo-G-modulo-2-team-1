@@ -28,10 +28,10 @@ CREATE TABLE Detalles (
 
 CREATE TABLE Actores (
     Actor VARCHAR(50),
-    AnioNacimiento INT,
+    AnioNacimiento INT DEFAULT NULL,
     QueHace VARCHAR(255),
     ConocidoPor VARCHAR(500),
-    Premios VARCHAR(255),
+    Premios VARCHAR(512),
     PRIMARY KEY (Actor)
 );
 
