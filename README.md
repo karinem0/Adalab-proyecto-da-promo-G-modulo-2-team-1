@@ -1,6 +1,11 @@
 # Proyecto CinemExtract: 
 # Explorando el Séptimo Arte a través de Datos y Tecnología
 
+<div align="right">
+  <img src="https://github.com/karinem0/Adalab-proyecto-da-promo-G-modulo-2-team-1/blob/main/logo-equipo.png" alt="Descripción de la imagen" width="100">
+</div>
+
+
 ## INDICE
 
 1. [Introducción](#1-introducción)
@@ -28,9 +33,9 @@ Si quieres echar un vistazo a nuestra base de datos y comprobar toda la informac
 
     - Descarga o clona el repositorio a tu máquina local.
     - Dentro del repositorio encontrarás: 
-        - API
-        - BBDD: SQL-CONSULTAS
-        - ROTTEN Y IMDB
+        - Datos_extraídos
+        - BBDD: SQL y consultas a la BBDD
+        - Códigos_utilizados
 
     - Asegúrate de tener instaladas todas las dependencias necesarias. Dentro de nuestros archivos encontrarás todos los detalles al respecto. 
 
@@ -39,23 +44,25 @@ Si quieres echar un vistazo a nuestra base de datos y comprobar toda la informac
 
 # 3-Instrucciones de uso
 
-- Según tus preferencias en nuestro proyecto te damos la opción de:
+Según tus preferencias en nuestro proyecto te damos la opción de:
 
-    - Extraer tú mismo la información en caso de que quieras un género cinematográfico diferente u otro rango de años. 
-    
-    ** En el archivo --------- encontrarás la información necesaria para poder hacerlo tú mismo, sin necesidad de ayuda. 
-    ** Recuerda que para poder ejecutar este código debes tener instaladas todas las dependencias necesarias. ***
+    - Extraer tú mismo la información en caso de que quieras un género cinematográfico diferente u otro rango de años:
 
+        - En el archivo --------- encontrarás la información necesaria para poder hacerlo tú mismo, podrás extraer la información a través de la API: "https://rapidapi.com/SAdrian/api/moviesdatabase/" y usando nuestro código. 
 
-- Investigar toda la información extraída de las películas, valoraciones de IMDB y Rotten Tomatoes, consultar nuestra Base de Datos y hacerle peticiones para que te aporte la información que necesitas. 
-
-    ** Podras visualizar todos los archivos con un editor de texto simple pero para poder realizar peticiones a nuestra BBDD deberás tener instalado MySQL Workbench. 
-    
-    ** En el archivo ------- encontrarás la información de ---
-    ** 
+        - Recuerda que para poder ejecutar este código debes tener instaladas todas las dependencias necesarias. En caso de que no las tengas te explicamos cómo el archivo correspondiente. 
 
 
-# 4-Logros
+    - Revisar toda la información extraída: 
+
+        - En el carpeta ------- encontrarás  archivos ypynb con detalles sobre las películas, valoraciones de los usuarios, información sobre los actores, resultado de los premios Oscar desde el 2000 hasta el 2023, etc.
+
+        - En la carpeta ----------- Base de Datos "ProyectoCinemExtract" y hacerle peticiones para que te aporte la información que necesitas. 
+
+        - Podrás visualizar todos los archivos con un editor de texto simple pero te recomendamos instalarte MySQL Workbench para mejorar tu experiencia con nuestra BBDD y en caso de interés, esto te permitirá realizar consultas. 
+
+
+# 4-¿Qué hemos logrado? 
 
     - Recopilar información detallada sobre películas y cortometrajes (datos extraídos de la API de MoviesDataset), puntuaciones de IMDB y Rotten Tomatoes, información sobre los actores y premios Oscar con Web scraping. 
 
@@ -66,7 +73,7 @@ Si quieres echar un vistazo a nuestra base de datos y comprobar toda la informac
     - Identificar tendencias y preferencias de los usuarios en la industria cinematográfica.
 
 
-# 5- Ideas a implementar (mejoras)
+# 5-Mejoras a implementar 
 
     - Mejorar la eficiencia en la extracción de datos.
 
