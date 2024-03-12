@@ -91,12 +91,16 @@ Según tus preferencias en nuestro proyecto te damos la opción de:
 Como equipo consideramos que todas las ideas son bienvenidas y nos hacen mejorar como profesionales y equipo. Por eso consideramos importante que si tienes alguna idea o sugerencia que pueda aportar algo a nuestro proyecto, estaremos encantadas de oír cualquier propuesta de mejora. 
 ¡Te animo a echarle un vistazo a nuestro proyecto! ¡Si hay algo que podamos hacer para que sea aún mejor, no dudes en contactarnos!
 
-# 7-Conoce al equipo
+# 7-Conoce al resto del equipo
 
 Si deseas conocer más sobre el resto del equipo y explorar otros proyectos realizados, os dejamos los perfiles de GitHub:
+
     - https://github.com/marinaescobar
+
     - https://github.com/LauraGenesis
+
     - https://github.com/ADSBorges
+
     - https://github.com/Dondiz 
 
 
