@@ -14,6 +14,7 @@
 4. [Logros](#4-logros)
 5. [Ideas a Implementar (Mejoras)](#5-ideas-a-implementar-mejoras)
 6. [¿Nos Ayudas a Mejorar?](#6-nos-ayudas-a-mejorar)
+7. [Conoce al equipo](#7-Conoce-al-equipo)
 
 # 1-Introducción 
 
@@ -32,7 +33,9 @@ Tenemos el gusto de presentaros nuestro maravilloso proyecto, el cual nos ha sup
 Si quieres echar un vistazo a nuestra base de datos y comprobar toda la información extraída debes:
 
     - Descarga o clona el repositorio a tu máquina local.
+
     - Dentro del repositorio encontrarás: 
+
         - Datos_extraídos
         - BBDD: SQL y consultas a la BBDD
         - Códigos_utilizados
@@ -48,16 +51,16 @@ Según tus preferencias en nuestro proyecto te damos la opción de:
 
     - Extraer tú mismo la información en caso de que quieras un género cinematográfico diferente u otro rango de años:
 
-        - En el archivo --------- encontrarás la información necesaria para poder hacerlo tú mismo, podrás extraer la información a través de la API: "https://rapidapi.com/SAdrian/api/moviesdatabase/" y usando nuestro código. 
+        - En la carpeta 'Codigos_extracciones' debes acceder al archivo 'Código-extraccion_movieData.ipynb' el cual te dará la información necesaria para poder hacerlo tú mismo, podrás extraer la información a través de la API: "https://rapidapi.com/SAdrian/api/moviesdatabase/" y usando nuestro código. 
 
-        - Recuerda que para poder ejecutar este código debes tener instaladas todas las dependencias necesarias. En caso de que no las tengas te explicamos cómo el archivo correspondiente. 
+        - Recuerda que para poder ejecutar este código debes tener instaladas todas las dependencias necesarias. En caso de que no las tengas te explicamos cómo en el archivo anterior. 
 
 
     - Revisar toda la información extraída: 
 
-        - En el carpeta ------- encontrarás  archivos ypynb con detalles sobre las películas, valoraciones de los usuarios, información sobre los actores, resultado de los premios Oscar desde el 2000 hasta el 2023, etc.
+        - En la carpeta 'Extracciones' encontrarás  cuatro subcarpertas donde hemos clasificado la información extraída en formato ipynb con detalles sobre las películas, valoraciones de los usuarios (IMDB y Rotten Tomatoes) e información sobre los actores.
 
-        - En la carpeta ----------- Base de Datos "ProyectoCinemExtract" y hacerle peticiones para que te aporte la información que necesitas. 
+        - En la carpeta 'BBDD' encontrarás todo lo necesario para exportar nuestra base de datos 'ProyectoCinemExtract'y ver toda la información que hemos insertado a la misma. Además de esto podrás hacerle consultas para recopilar la información que necesites. 
 
         - Podrás visualizar todos los archivos con un editor de texto simple pero te recomendamos instalarte MySQL Workbench para mejorar tu experiencia con nuestra BBDD y en caso de interés, esto te permitirá realizar consultas. 
 
@@ -88,6 +91,13 @@ Según tus preferencias en nuestro proyecto te damos la opción de:
 Como equipo consideramos que todas las ideas son bienvenidas y nos hacen mejorar como profesionales y equipo. Por eso consideramos importante que si tienes alguna idea o sugerencia que pueda aportar algo a nuestro proyecto, estaremos encantadas de oír cualquier propuesta de mejora. 
 ¡Te animo a echarle un vistazo a nuestro proyecto! ¡Si hay algo que podamos hacer para que sea aún mejor, no dudes en contactarnos!
 
+# 7-Conoce al equipo
+
+Si deseas conocer más sobre el resto del equipo y explorar otros proyectos realizados, os dejamos los perfiles de GitHub:
+    - https://github.com/marinaescobar
+    - https://github.com/LauraGenesis
+    - https://github.com/ADSBorges
+    - https://github.com/Dondiz 
 
 
 
