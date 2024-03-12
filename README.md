@@ -36,9 +36,11 @@ Si quieres echar un vistazo a nuestra base de datos y comprobar toda la informac
 
     - Dentro del repositorio encontrarás: 
 
-        - Datos_extraídos
-        - BBDD: SQL y consultas a la BBDD
-        - Códigos_utilizados
+        - Extracciones: todos los archivos csv con la información recopilada.
+
+        - BBDD: SQL, consultas a la BBDD y códigos utilizados para insertar datos en BBDD.
+
+        - Códigos_extracciones: códigos utilizados para extraer datos de API y a través de Web Scraping. 
 
     - Asegúrate de tener instaladas todas las dependencias necesarias. Dentro de nuestros archivos encontrarás todos los detalles al respecto. 
 
